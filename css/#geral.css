@@ -1,0 +1,154 @@
+#corpo {
+    border: 3px solid black;
+    width: auto;
+    height: auto;
+}
+#topo  {
+border: 3px solid blue;
+width: auto;
+height: 100px;
+}
+#conteudo {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+#centro {
+border: 3px solid yellow;
+width: 1000px;
+height: 750px;
+}
+#direita {
+border: 3px solid red;
+width: 450px;
+height: 750px;
+}
+#esquerda {
+border: 3px solid black;
+width: 450px;
+height: 750px;
+}
+#rodape {
+border: 3px solid green;
+width: auto;
+height: 50px;
+display: flex;
+}
+
+#corpo{
+    border: 3px solid rgba(255, 0 , 191 , 0.795);
+    width: auto; 
+    height: auto;
+}
+topo{
+    border: 3px solid rgb(174, 0, 255);
+    width: auto;
+    height: 150px;
+}
+#esquerda{
+    border: 3px solid rgb(0, 255, 55);
+    height: 750px;
+    width: 24%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+#centro{
+    border: 3px solid rgba(4, 0, 255, 0.623);
+    height: 750px;
+    width: 50%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+#direita{
+    border: 3px solid rgb(0, 204, 255);
+    height: 750px;
+    width: 24%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+#rodape{
+    border: 3px solid rgb(255, 238, 0);
+    width: auto;
+    height: 25px;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#corpo{
+    border: 3px solid rgba(255, 0, 191, 0.795);
+    width: auto;
+    height: auto;
+}
+#topo{
+    border: 3px solid rgb(174, 0, 255);
+    width: auto;
+    height: 150px;
+}
+#esquerda{
+    border: 3px solid rgb(0, 255, 55);
+    height: 750px;
+    width: 24%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+#centro{
+    border: 3px solid rgba(4, 0, 255, 0.623);
+    height: 750px;
+    width: 50%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+#direita{
+    border: 3px solid rgb(0, 204, 255);
+    height: 750px;
+    width: 24%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+
+
+
+
+   
+}
+#rodape{
+    border: 3px solid rgb(255, 238, 0);
+    width: auto;
+    height: 25px;
+    display: flex;
+}
+
+
+  
